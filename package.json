@@ -12,7 +12,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rogue-elephant/json-csv-tool.git"
+    "url": "git+https://github.com/rogue-elephant/json-conversion-tool.git"
   },
   "scripts": {
     "test": "jest --config jestconfig.json",

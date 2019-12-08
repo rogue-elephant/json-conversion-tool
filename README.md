@@ -1,4 +1,4 @@
-# JSON-CSV-TOOL
+# JSON-CONVERSION-TOOL
 
 #### NPM
 [![json-csv-tool npm](https://img.shields.io/npm/v/json-csv-tool?label=json-csv-tool&logo=npm)](https://www.npmjs.com/package/json-csv-tool)
