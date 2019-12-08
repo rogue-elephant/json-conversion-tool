@@ -1,6 +1,6 @@
 {
   "name": "json-conversion-tool",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Provides functionality for converting JSON objects into a relational structure and then outputting to various formats (csv, markdown, html etc.)",
   "files": [
     "lib/**/*"
