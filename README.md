@@ -1,24 +1,24 @@
 # JSON-CONVERSION-TOOL
 
 #### NPM
-[![json-csv-tool npm](https://img.shields.io/npm/v/json-csv-tool?label=json-csv-tool&logo=npm)](https://www.npmjs.com/package/json-csv-tool)
+[![json-conversion-tool npm](https://img.shields.io/npm/v/json-conversion-tool?label=json-conversion-tool&logo=npm)](https://www.npmjs.com/package/json-conversion-tool)
 
-![](https://img.shields.io/npm/dm/json-csv-tool?logo=npm)
-[![libraries io](https://img.shields.io/librariesio/release/npm/json-csv-tool)](https://libraries.io/npm/json-csv-tool)
-[![snyk](https://img.shields.io/snyk/vulnerabilities/npm/json-csv-tool)](https://snyk.io/vuln/search?q=json-csv-tool&type=npm)
-![](https://img.shields.io/bundlephobia/min/json-csv-tool) ![](https://img.shields.io/npm/l/json-csv-tool)
+![](https://img.shields.io/npm/dm/json-conversion-tool?logo=npm)
+[![libraries io](https://img.shields.io/librariesio/release/npm/json-conversion-tool)](https://libraries.io/npm/json-conversion-tool)
+[![snyk](https://img.shields.io/snyk/vulnerabilities/npm/json-conversion-tool)](https://snyk.io/vuln/search?q=json-conversion-tool&type=npm)
+![](https://img.shields.io/bundlephobia/min/json-conversion-tool) ![](https://img.shields.io/npm/l/json-conversion-tool)
 
 #### Github
-![](https://img.shields.io/github/last-commit/rogue-elephant/json-csv-tool)
-![](https://img.shields.io/github/issues-raw/rogue-elephant/json-csv-tool)
-![](https://img.shields.io/github/issues-closed-raw/rogue-elephant/json-csv-tool)
+![](https://img.shields.io/github/last-commit/rogue-elephant/json-conversion-tool)
+![](https://img.shields.io/github/issues-raw/rogue-elephant/json-conversion-tool)
+![](https://img.shields.io/github/issues-closed-raw/rogue-elephant/json-conversion-tool)
 ![](https://img.shields.io/badge/using-typescript-008866?style=flat&logo=typescript)
 
 ## Description
 Provides functions for converting JSON objects to and from CSVs.
 
 ## Try me out
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/rogue-elephant/json-csv-tool)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/rogue-elephant/json-conversion-tool)
 
 # Usage
 

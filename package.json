@@ -1,7 +1,7 @@
 {
-  "name": "json-csv-tool",
+  "name": "json-conversion-tool",
   "version": "2.0.0",
-  "description": "Functions for converting JSON objects to CSV as well as possibility to choose specific fields to convert.",
+  "description": "Provides functionality for converting JSON objects into a relational structure and then outputting to various formats (csv, markdown, html etc.)",
   "files": [
     "lib/**/*"
   ],
