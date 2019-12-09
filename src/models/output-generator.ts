@@ -98,7 +98,7 @@ export class OutputGenerator {
   }
 
   protected removeUnwantedChars = (value: any, unwantedChars: string[], replaceWith: string = '') =>
-    value.toString().replace(new RegExp(unwantedChars.join('|'), 'g'), replaceWith);
+    value ? value.toString().replace(new RegExp(unwantedChars.join('|'), 'g'), replaceWith) : '';
 }
 
 export type TableLevelCallback = (output: string, table: RelationalJson) => string;

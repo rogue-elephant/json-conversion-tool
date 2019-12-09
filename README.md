@@ -197,12 +197,12 @@ year,reason
 ## Dot notation
 You can also specify specifc fields to get based on dot notation, such as:
 ``` typescript
-new JsonCsvConverter().convertJsonToCsv(apiJson, {whiteList: ['prefs.backgroundImageScaled.url']});
+new OutputGenerator({ new Converter().convertJson(apiJson,{whiteList: ['prefs.backgroundImageScaled.url'])});
 ```
 
 Or 
 ``` typescript
-new JsonCsvConverter().convertJsonToCsv(apiJson, {whiteList: ['name', 'cards.*']});
+new OutputGenerator({ new Converter().convertJson(apiJson,{whiteList: ['name', 'cards.*'])});
 ```
 
 ## Contributing
